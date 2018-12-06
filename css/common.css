@@ -19,7 +19,7 @@ hr {
 p, div, th, td, select, input {
 	color: #333;
 }
-a:link, a:visited {
+a:link, a:visited { 
 	/*color: #666;*/
 	text-decoration: none;
 }
